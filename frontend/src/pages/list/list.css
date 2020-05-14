@@ -1,0 +1,7 @@
+.list {
+    padding: 0 24px;
+}
+
+.list .list__item {
+    margin-left: 16px;
+}

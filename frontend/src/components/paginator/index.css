@@ -1,0 +1,16 @@
+.paginator ul {
+    list-style: none;
+    display: inline-flex;
+    padding: 0;
+    margin: 0;
+}
+
+.paginator li {
+    padding: 0 8px;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.paginator li.active {
+    font-weight: bold;
+}
